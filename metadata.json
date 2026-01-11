@@ -1,0 +1,7 @@
+{
+  "name": "UniMine Factory V15 PRO",
+  "description": "Industrial Minecraft Mod & Client Patcher. Powered by Deep Research AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
